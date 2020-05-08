@@ -66,7 +66,7 @@ const superData = [{
 }, {
   "id": 14,
   "question": "The X-Men are all mutants, otherwise known as:",
-  "answers": ["inhumans", "home-superior", "homo-mutanimal"],
+  "answers": ["inhumans", "homo-superior", "homo-mutanimal"],
   "correctAnswer": "homo-superior"
 }, {
   "id": 15,
